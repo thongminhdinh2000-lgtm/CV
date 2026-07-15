@@ -2,9 +2,9 @@
 ## 📊 DATA ANALYST | BUSINESS INTELLIGENCE ANALYST
 
 📍 Hồ Chí Minh  
-📧 Email: your_email@gmail.com  
-📱 Điện thoại: 09xxxxxxxx  
-💻 GitHub: https://github.com/yourusername  
+📧 Email: thongminhdinh2000@gmail.com
+📱 Điện thoại: 0387628794 
+💻 GitHub: https://github.com/thongminhdinh2000-lgtm
 🔗 LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
@@ -259,10 +259,10 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 
 # 📫 LIÊN HỆ
 
-📧 your_email@gmail.com
+📧 thongminhdinh2000@gmail.com
 
-📱 09xxxxxxxx
+📱 0387628794
 
-💻 GitHub: https://github.com/yourusername
+💻 GitHub: https://github.com/thongminhdinh2000-lgtm
 
 🔗 LinkedIn: https://linkedin.com/in/yourprofile
