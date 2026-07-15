@@ -6,5 +6,7 @@
 📧 Email: your_email@gmail.com
 
 📱 Phone: 09xxxxxxxx
--🔗 GitHub: github.com/yourgithub
--🔗 LinkedIn: linkedin.com/in/yourlinkedin
+
+🔗 GitHub: github.com/yourgithub
+
+🔗 LinkedIn: linkedin.com/in/yourlinkedin
