@@ -1,4 +1,4 @@
-📊 THÔNG MINH ĐÌNH
+# 📊 THÔNG MINH ĐÌNH
 
 Data Analyst | Business Intelligence Analyst
 
