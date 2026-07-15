@@ -1,6 +1,6 @@
-# 📊 THÔNG MINH ĐÌNH
+## 📊 THÔNG MINH ĐÌNH
 
-## Data Analyst | Business Intelligence Analyst
+### Data Analyst | Business Intelligence Analyst
 📍 Hồ Chí Minh, Việt Nam
 📧 your_email@gmail.com
 📱 09xxxxxxxx
