@@ -1,10 +1,10 @@
 # 👨‍💼 THÔNG MINH ĐÌNH
 ## 📊 DATA ANALYST | BUSINESS INTELLIGENCE ANALYST
 
-📍 Hồ Chí Minh  
-📧 Email: thongminhdinh2000@gmail.com
-📱 Điện thoại: 0387628794 
-💻 GitHub: https://github.com/thongminhdinh2000-lgtm
+-📍 Hồ Chí Minh  
+-📧 Email: thongminhdinh2000@gmail.com
+-📱 Điện thoại: 0387628794 
+-💻 GitHub: https://github.com/thongminhdinh2000-lgtm
 
 ---
 
