@@ -197,8 +197,8 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - CASE WHEN
 - CTE
 - Window Function
-
-
+- Rank
+-
 
 ---
 
