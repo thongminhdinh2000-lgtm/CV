@@ -151,7 +151,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 # 🛠 KỸ NĂNG
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ## 📈 Microsoft Excel
 
@@ -187,7 +187,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 
 </td>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
      
 ## 🗄 SQL Server
 
