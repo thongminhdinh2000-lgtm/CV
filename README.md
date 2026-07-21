@@ -6,7 +6,7 @@
  
 </td>
 
-<td width="80%" valign="top">  
+<td width="65%" valign="top">  
  
  ---
  
