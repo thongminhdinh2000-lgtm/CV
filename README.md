@@ -6,7 +6,8 @@
  
 </td>
 
-<td width="70%" valign="top">  
+<td width="80%" valign="top">  
+ 
  ---
  
 # 👨‍💼 THÔNG MINH ĐÌNH
