@@ -8,9 +8,8 @@
 
 <td width="65%" valign="top">  
  
- ---
  
-# 👨‍💼 THÔNG MINH ĐÌNH
+#  THÔNG MINH ĐÌNH
 ## 📊 DATA ANALYST | BUSINESS INTELLIGENCE ANALYST
 
  </td>
