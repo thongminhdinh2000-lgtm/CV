@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="midle">
      
 <img width="235" height="180" alt="OIP" src="https://github.com/user-attachments/assets/50c0fd3c-a6b0-40c9-9d2c-6ff8b019867a" />  
  
