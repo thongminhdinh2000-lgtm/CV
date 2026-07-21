@@ -259,5 +259,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 </table>
 
 ---
-
+<table>
+<tr>
+<td width="50%" valign="top">
 ### Hành trình  
