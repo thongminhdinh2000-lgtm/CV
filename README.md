@@ -216,6 +216,21 @@ Python
 • Data Automation  
 • SQL Integration  
 
+</td>
+<td style="width:33%; vertical-align:top;">
+ <h3>
+  <img src="https://github.com/user-attachments/assets/0e0176e3-8b65-4634-ac8a-be171e1f7cca"
+       width="34"
+       alt="Python">
+Python
+ </h3>
+
+⭐⭐☆☆☆  
+• Pandas & NumPy  
+• ETL Pipelines  
+• Data Automation  
+• SQL Integration  
+
  </td>
   </tr>
 </table>
