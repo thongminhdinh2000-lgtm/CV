@@ -168,7 +168,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 # 🛠 KỸ NĂNG
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <h3>
   <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/f4b32797-d73d-4b39-b8bc-f8cf50e18b7a" width="33" valign="middle">
@@ -195,7 +195,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Forecast
 
 </td>
-<td width="50%" valign="top">  
+<td width="33%" valign="top">  
  
  
 <h3>
@@ -220,7 +220,7 @@ SQL Server
  - Business Reporting  
 
 </td>
-<td width="50%" valign="top"> 
+<td width="34%" valign="top"> 
 
 <h3>
    <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/0e0176e3-8b65-4634-ac8a-be171e1f7cca" width="33" valign="middle">
