@@ -187,7 +187,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 
 </td>
 
-<td width="33%" valign="top">  
+<td width="40%" valign="top">  
  
  <h3>
   <img src="https://github.com/user-attachments/assets/4596dc91-49b4-43a7-85af-85e1f6913554"
@@ -204,7 +204,7 @@ SQL Server
 • Window Functions  
 
 </td>
-<td width="34%" valign="top"> 
+<td width="40%" valign="top"> 
 
 
  <h3>
