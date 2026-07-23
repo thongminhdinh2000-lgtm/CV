@@ -235,7 +235,7 @@ Python
 </td>
 <td style="width:50%; vertical-align:top;">
 <h3>
-  <img src="https://github.com/user-attachments/assets/0e0176e3-8b65-4634-ac8a-be171e1f7cca"
+  <img src="https://github.com/user-attachments/assets/1c83c6e3-82ac-47f8-a9a9-d18c0fe5d9a0"
        width="30" hight="30"  
        alt="Python">
 Python
