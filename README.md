@@ -226,7 +226,8 @@ Python
 ⭐⭐⭐☆☆
 </h3>
  
-• Pandas & NumPy  
+• Pandas
+• NumPy  
 • ETL Pipelines  
 • Data Automation  
 • SQL Integration 
