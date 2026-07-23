@@ -168,8 +168,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 # 🛠 KỸ NĂNG
 <table width="100%">
 <tr>
-<td width="40%" valign="top">
-
+<td style="width:33%; vertical-align:top;">
 <h3>
   <img src="https://github.com/user-attachments/assets/f4b32797-d73d-4b39-b8bc-f8cf50e18b7a"
        width="30"
@@ -187,8 +186,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 
 </td>
 
-<td width="40%" valign="top">  
- 
+<td style="width:33%; vertical-align:top;">
  <h3>
   <img src="https://github.com/user-attachments/assets/4596dc91-49b4-43a7-85af-85e1f6913554"
        width="30"
@@ -204,9 +202,7 @@ SQL Server
 • Window Functions  
 
 </td>
-<td width="40%" valign="top"> 
-
-
+<td style="width:33%; vertical-align:top;">
  <h3>
   <img src="https://github.com/user-attachments/assets/0e0176e3-8b65-4634-ac8a-be171e1f7cca"
        width="34"
