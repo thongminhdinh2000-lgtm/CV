@@ -245,14 +245,13 @@ Python
 
 <h3 align="center">
 ⭐⭐⭐⭐☆
-</h3>
+</h3>  
 
-⭐⭐⭐⭐☆
-• Data Modeling
-• DAX
-• Power Query
-• Dashboard Development
-• KPI & Forecast
+• Data Modeling  
+• DAX  
+• Power Query  
+• Dashboard Development  
+• KPI & Forecast  
 
  </td>
   </tr>
