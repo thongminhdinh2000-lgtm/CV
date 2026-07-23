@@ -168,7 +168,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 # 🛠 KỸ NĂNG
 <table width="100%">
 <tr>
-<td style="width:33%; vertical-align:top;">
+<td style="width:50%; vertical-align:top;">
 <h3>
   <img src="https://github.com/user-attachments/assets/f4b32797-d73d-4b39-b8bc-f8cf50e18b7a"
        width="30"  hight="30"  
@@ -189,7 +189,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 
 
 </td>
-<td style="width:33%; vertical-align:top;">
+<td style="width:50%; vertical-align:top;">
 <h3>
   <img src="https://github.com/user-attachments/assets/4596dc91-49b4-43a7-85af-85e1f6913554"
        width="30" hight="30"  
