@@ -213,8 +213,10 @@ SQL Server
        alt="SQL">
 SQL Server
 </h3>
+ --- 
+ 
 <h3 align="center">
-⭐⭐⭐☆☆  
+⭐⭐⭐☆☆
 </h3>
  
 • SELECT & JOIN  
