@@ -168,7 +168,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 # 🛠 KỸ NĂNG
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="40%" valign="top">
 
 <h3>
   <img src="https://github.com/user-attachments/assets/f4b32797-d73d-4b39-b8bc-f8cf50e18b7a"
@@ -209,7 +209,7 @@ SQL Server
 
  <h3>
   <img src="https://github.com/user-attachments/assets/0e0176e3-8b65-4634-ac8a-be171e1f7cca"
-       width="30"
+       width="34"
        alt="Python">
 Python
  </h3>
