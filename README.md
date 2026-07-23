@@ -205,16 +205,11 @@ SQL Server
 
 ---  
 ⭐⭐⭐☆☆
-- SELECT  
-- JOIN  
-- GROUP BY  
-- HAVING  
-- CASE WHEN  
-- CTE  
-- Window Function  
-- Rank  
--  
----
+• SELECT & JOIN
+• GROUP BY & HAVING
+• CASE WHEN
+• CTE
+• Window Functions  
 
 ## 📊 Data Analysis
  - Data Cleaning  
