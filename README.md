@@ -237,7 +237,10 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Tự động làm mới Dashboard
 
 ---
+</td>
 
+<td width="50%" valign="top"> 
+ 
 ## 📊 Data Analysis
 
  - Data Cleaning  
