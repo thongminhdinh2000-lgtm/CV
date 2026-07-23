@@ -207,6 +207,26 @@ SQL Server
 • CTE  
 • Window Functions  
 
+</td>
+<td style="width:50%; vertical-align:top;">
+<h3>
+  <img src="https://github.com/user-attachments/assets/4596dc91-49b4-43a7-85af-85e1f6913554"
+       width="30" hight="30"  
+       alt="SQL">
+SQL Server
+</h3>
+ 
+---  
+ 
+⭐⭐⭐☆☆  
+
+• SELECT & JOIN  
+• GROUP BY & HAVING  
+• CASE WHEN  
+• CTE  
+• Window Functions  
+
+
  </td>
   </tr>
 </table>
