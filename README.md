@@ -229,15 +229,10 @@ Python
 
  ---  
 ⭐⭐☆☆☆  
-- Pandas  
-- NumPy  
-- SQLAlchemy  
-- OpenPyXL  
-- ETL  
-- Automation  
-- Xử lý dữ liệu Excel  
-- Tự động cập nhật dữ liệu SQL  
-- Tự động làm mới Dashboard
+• Pandas & NumPy  
+• ETL Pipelines  
+• Data Automation  
+• SQL Integration  
 
  </td>
   </tr>
