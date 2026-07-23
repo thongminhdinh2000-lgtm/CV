@@ -208,7 +208,7 @@ SQL Server
 </td>
 <td style="width:50%; vertical-align:top;">
 <h3>
-  <img src="https://github.com/user-attachments/assets/4596dc91-49b4-43a7-85af-85e1f6913554"
+  <img src="https://github.com/user-attachments/assets/0e0176e3-8b65-4634-ac8a-be171e1f7cca"
        width="30" hight="30"  
        alt="SQL">
 SQL Server
