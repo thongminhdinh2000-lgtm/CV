@@ -237,8 +237,8 @@ Python
 <h3>
   <img src="https://github.com/user-attachments/assets/1c83c6e3-82ac-47f8-a9a9-d18c0fe5d9a0"
        width="30" hight="30"  
-       alt="Python">
-Python
+       alt="Power BI">
+Power BI
 </h3>
 
 --- 
