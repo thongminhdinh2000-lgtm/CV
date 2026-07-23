@@ -173,7 +173,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
   <img src="https://github.com/user-attachments/assets/f4b32797-d73d-4b39-b8bc-f8cf50e18b7a"
        width="30"
        alt="Excel">
-  Microsoft Excel
+ Microsoft Excel
  
   </h3> 
   
