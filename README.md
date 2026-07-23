@@ -171,7 +171,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 <td width="33%" valign="top">
 
 <h3>
-  <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/f4b32797-d73d-4b39-b8bc-f8cf50e18b7a" width="100" valign="middle">
+  <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/f4b32797-d73d-4b39-b8bc-f8cf50e18b7a" width="33" valign="middle">
   Microsoft Excel
 </h3>  
 
@@ -199,7 +199,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
  
  
 <h3>
-  <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/4596dc91-49b4-43a7-85af-85e1f6913554" width="100" valign="middle">
+  <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/4596dc91-49b4-43a7-85af-85e1f6913554" width="33" valign="middle">
 SQL Server
 </h3>  
 
@@ -223,7 +223,7 @@ SQL Server
 <td width="34%" valign="top"> 
 
 <h3>
-   <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/0e0176e3-8b65-4634-ac8a-be171e1f7cca" width="100" valign="middle">
+   <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/0e0176e3-8b65-4634-ac8a-be171e1f7cca" width="33" valign="middle">
 Python
 </h3>  
 
