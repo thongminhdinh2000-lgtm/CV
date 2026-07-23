@@ -195,7 +195,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Forecast
 
 </td>
-<td width="33%" valign="top">  
+<td width="50%" valign="top">  
  
  
 <h3>
