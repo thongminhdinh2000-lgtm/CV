@@ -204,11 +204,11 @@ SQL Server
 </h3>  
 
 ---  
-⭐⭐⭐☆☆
-• SELECT & JOIN
-• GROUP BY & HAVING
-• CASE WHEN
-• CTE
+⭐⭐⭐☆☆  
+• SELECT & JOIN  
+• GROUP BY & HAVING  
+• CASE WHEN  
+• CTE  
 • Window Functions  
 
 ## 📊 Data Analysis
