@@ -213,7 +213,7 @@ SQL Server
 <h3>
   <img src="https://github.com/user-attachments/assets/0e0176e3-8b65-4634-ac8a-be171e1f7cca"
        width="30" hight="30"  
-       alt="SQL">
+       alt="Python">
 Python
 </h3>
 
