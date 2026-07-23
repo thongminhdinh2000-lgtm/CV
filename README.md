@@ -231,8 +231,14 @@ SQL Server
 
 </td>
 <td width="34%" valign="top"> 
+
+<h3>
+   <img width="40" height="30" alt="image" src="https://github.com/user-attachments/assets/0e0176e3-8b65-4634-ac8a-be171e1f7cca" width="30" valign="middle">
+Python
+</h3>  
+
+ --- 
  
-## 🐍 Python
 ⭐⭐☆☆☆  
 - Pandas  
 - NumPy  
