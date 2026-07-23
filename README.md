@@ -191,9 +191,6 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Drill Through
 - KPI
 - Forecast
--
--
----  
 
 </td>
 <td width="33%" valign="top">  
@@ -209,7 +206,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Window Function  
 - Rank  
 -  
----  
+---
 
 ## 📊 Data Analysis
  - Data Cleaning  
@@ -219,7 +216,6 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
  - Retail Data Analysis  
  - Business Reporting  
 
----  
 </td>
 <td width="34%" valign="top"> 
  
