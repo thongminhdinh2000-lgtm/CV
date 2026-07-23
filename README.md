@@ -166,7 +166,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 
 
 # 🛠 KỸ NĂNG
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
