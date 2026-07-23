@@ -208,10 +208,13 @@ SQL Server
 </td>
 <td width="34%" valign="top"> 
 
-<h3>
-   <img width="33" height="30" alt="image" src="https://github.com/user-attachments/assets/0e0176e3-8b65-4634-ac8a-be171e1f7cca" width="33" valign="middle">
+
+ <h3>
+  <img src="https://github.com/user-attachments/assets/0e0176e3-8b65-4634-ac8a-be171e1f7cca"
+       width="30"
+       alt="Python">
 Python
-</h3>  
+ </h3>
 
  ---  
 ⭐⭐☆☆☆  
