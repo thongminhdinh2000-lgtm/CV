@@ -1,76 +1,108 @@
 # ==========================================
 # step1_scan.py
-# Quét toàn bộ file XML trong thư mục Downloads
+# Quét XML và XML trong ZIP
 # ==========================================
 
 import os
+import zipfile
 from config import INPUT_FOLDER
 
 
 def scan_xml():
-    """
-    Quét tất cả file XML trong INPUT_FOLDER
-    (bao gồm cả thư mục con)
 
-    Returns
-    -------
-    list
-        Danh sách đường dẫn đầy đủ của file XML
-    """
+    xml_list = []
 
-    xml_files = []
+    total_xml = 0
+    total_zip = 0
 
-    print("\n" + "=" * 60)
-    print("BƯỚC 1: QUÉT FILE XML")
+    print("=" * 60)
+    print("BƯỚC 1 - QUÉT XML")
     print("=" * 60)
 
-    # Kiểm tra thư mục tồn tại
     if not os.path.exists(INPUT_FOLDER):
-        raise FileNotFoundError(
-            f"Không tìm thấy thư mục:\n{INPUT_FOLDER}"
-        )
+        raise FileNotFoundError(INPUT_FOLDER)
 
-    # Quét thư mục
     for root, dirs, files in os.walk(INPUT_FOLDER):
 
         for file in files:
 
-            # Chỉ lấy XML
+            full_path = os.path.join(root, file)
+
+            # =================================================
+            # XML bình thường
+            # =================================================
             if file.lower().endswith(".xml"):
 
-                full_path = os.path.join(root, file)
+                xml_list.append({
+                    "type": "xml",
+                    "path": full_path
+                })
 
-                xml_files.append(full_path)
+                total_xml += 1
 
-    # Sắp xếp theo tên
-    xml_files.sort()
+            # =================================================
+            # ZIP
+            # =================================================
+            elif file.lower().endswith(".zip"):
 
-    print(f"Tổng số file XML tìm thấy : {len(xml_files):,}")
+                total_zip += 1
 
-    if len(xml_files) == 0:
-        print("Không tìm thấy file XML.")
-    else:
+                try:
 
-        print("\nDanh sách 10 file đầu tiên:")
+                    with zipfile.ZipFile(full_path, "r") as z:
 
-        for i, file in enumerate(xml_files[:10], start=1):
-            print(f"{i:>3}. {os.path.basename(file)}")
+                        for member in z.namelist():
 
-        if len(xml_files) > 10:
-            print("...")
+                            if member.lower().endswith(".xml"):
+
+                                xml_list.append({
+
+                                    "type": "zip",
+
+                                    "zip_path": full_path,
+
+                                    "xml_name": member
+
+                                })
+
+                except Exception as e:
+
+                    print(f"Lỗi đọc ZIP: {file}")
+                    print(e)
+
+    print(f"Tìm thấy {total_xml:,} file XML.")
+    print(f"Tìm thấy {total_zip:,} file ZIP.")
+    print(f"Tổng XML sẽ xử lý: {len(xml_list):,}")
+
+    print("\n10 file đầu tiên:\n")
+
+    for i, item in enumerate(xml_list[:10], start=1):
+
+        if item["type"] == "xml":
+
+            print(f"{i}. XML  : {os.path.basename(item['path'])}")
+
+        else:
+
+            print(
+                f"{i}. ZIP  : "
+                f"{os.path.basename(item['zip_path'])}"
+                f" -> {item['xml_name']}"
+            )
 
     print("=" * 60)
 
-    return xml_files
+    return xml_list
 
 
-# =====================================================
-# Chạy riêng để kiểm tra
-# =====================================================
+# ==========================================
+# TEST
+# ==========================================
 
 if __name__ == "__main__":
 
     xml_files = scan_xml()
 
-    print("\nKiểm tra thành công.")
-    print(f"Tổng số file XML: {len(xml_files):,}")
+    print()
+
+    print(f"Tổng XML cần đọc: {len(xml_files):,}")
