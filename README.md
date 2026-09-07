@@ -70,7 +70,6 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Nhân viên bán hàng - thu ngân.
 - Kiểm soát hàng hóa (kiểm kê - xuất - nhập - xử lý hư hỏng)
 - Theo dõi doanh thu.
-- Hỗ trợ lập báo cáo kinh doanh.
 ---
 ### 📈 Thực tập sinh
 #### Công ty cổ phần chứng khoán An Bình.
@@ -99,6 +98,8 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 ✔ Dashboard phục vụ hơn **20 siêu thị**
 ✔ Tự động cập nhật dữ liệu
 ✔ Hỗ trợ Ban quản lý đưa ra quyết định nhanh chóng
+#### Link tham khảo: https://github.com/thongminhdinh2000-lgtm/Python-SQL-Dashboard-BI/blob/main/Dashboard/Sales_Dashboard_Supermarket.pdf  
+Vì lý do bảo mật, nội dung chia sẻ chỉ mang tính chất tham khảo - xin cảm ơn!
 ---
 ## 💰 Dashboard KPI Sale - Công ty YM
 ### Nội dung phân tích
