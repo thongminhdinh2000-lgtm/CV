@@ -49,12 +49,15 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 ### 🏪 Quản lý Siêu thị - Bách Hóa Xanh
 **📅 2024 - 2025**
 #### Công việc
-- 📈 Quản lý hoạt động kinh doanh của siêu thị.
-- 📊 Theo dõi doanh thu, lợi nhuận và các chỉ số kinh doanh.
-- 📦 Quản lý tồn kho, hàng cận date và hàng hủy.
-- 👥 Quản lý hiệu quả làm việc của nhân viên.
-- 📉 Phân tích dữ liệu kinh doanh theo ngành hàng, nhóm hàng và cửa hàng.
-- 💡 Đưa ra Insight hỗ trợ cấp trên xây dựng chiến lược bán hàng.
+- Quản lý hoạt động vận hành và kinh doanh hàng ngày của siêu thị.
+- Theo dõi và phân tích doanh thu, lợi nhuận, sản lượng bán và các KPI vận hành.
+- Phân tích kết quả kinh doanh theo ngành hàng, nhóm hàng, sản phẩm và thời gian.
+- Quản lý tồn kho, hàng cận date, hàng hư hỏng và hàng hủy.
+- Theo dõi hiệu suất làm việc và KPI của nhân viên.
+- Phân tích nguyên nhân biến động doanh thu và hiệu suất kinh doanh.
+- Đưa ra các đề xuất nhằm cải thiện doanh thu, giảm hàng hủy và tối ưu tồn kho.
+- Tổng hợp báo cáo kinh doanh và cung cấp thông tin cho cấp quản lý.
+- Đưa ra Insight hỗ trợ cấp trên xây dựng chiến lược bán hàng.
 #### Thành tựu
 ✅ Xây dựng Dashboard quản trị cho hơn **20 siêu thị vệ tinh**.  
 ✅ Tự động hóa quy trình báo cáo bằng **Python + SQL + Power BI**.  
