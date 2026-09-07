@@ -56,13 +56,13 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - 📉 Phân tích dữ liệu kinh doanh theo ngành hàng, nhóm hàng và cửa hàng.
 - 💡 Đưa ra Insight hỗ trợ cấp trên xây dựng chiến lược bán hàng.
 #### Thành tựu
-✅ Xây dựng Dashboard quản trị cho hơn **20 siêu thị vệ tinh**.
-✅ Theo dõi:
+✅ Xây dựng Dashboard quản trị cho hơn **20 siêu thị vệ tinh**.  
+✅ Theo dõi:  
 - Doanh thu
 - Hủy hàng
 - Tồn kho
 - KPI
-- Hiệu suất bán hàng
+- Hiệu suất bán hàng  
 ✅ Tự động hóa quy trình báo cáo bằng **Python + SQL + Power BI**.
 ---
 ### 🛒 Nhân viên Siêu thị - Bách Hóa Xanh
