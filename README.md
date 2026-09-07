@@ -40,7 +40,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 ---
 
 # 💼 KINH NGHIỆM LÀM VIỆC
-## Nhân viên kế toán bán hàng - Báo cáo KPI
+## Kế toán bán hàng - Báo cáo KPI
 **📅 Tháng 2/2026 - Nay**
 
 ### Công việc
