@@ -28,21 +28,14 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 💻 GitHub: https://github.com/thongminhdinh2000-lgtm  
 
 ## 🎓 HỌC VẤN
-
 ### 🏫 Đại học Sài Gòn
-
 **Chuyên ngành:** Toán Ứng dụng (Toán Kinh tế)
-
 🎓 Tốt nghiệp
-
 🏆 GPA: **8.01/10**
-
 ---
-
 ## 💼 KINH NGHIỆM LÀM VIỆC
 ### Kế toán bán hàng - Báo cáo KPI
 **📅 Tháng 2/2026 - Nay**
-
 #### Công việc
 - Tiếp nhận và kiểm tra đơn hàng.
 - Lập hóa đơn điện tử.
@@ -53,45 +46,32 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Phối hợp với bộ phận Kinh doanh và Kho để xử lý sai lệch.
 - Hỗ trợ kê khai và đối chiếu doanh thu.  
 - Tổng hợp dữ liệu, theo dõi KPI và lập báo cáo.
-
 ### 🏪 Quản lý Siêu thị - Bách Hóa Xanh
 **📅 2024 - 2025**
-
 #### Công việc
-
 - 📈 Quản lý hoạt động kinh doanh của siêu thị.
 - 📊 Theo dõi doanh thu, lợi nhuận và các chỉ số kinh doanh.
 - 📦 Quản lý tồn kho, hàng cận date và hàng hủy.
 - 👥 Quản lý hiệu quả làm việc của nhân viên.
 - 📉 Phân tích dữ liệu kinh doanh theo ngành hàng, nhóm hàng và cửa hàng.
 - 💡 Đưa ra Insight hỗ trợ cấp trên xây dựng chiến lược bán hàng.
-
 #### Thành tựu
-
 ✅ Xây dựng Dashboard quản trị cho hơn **20 siêu thị vệ tinh**.
-
 ✅ Theo dõi:
-
 - Doanh thu
 - Hủy hàng
 - Tồn kho
 - KPI
 - Hiệu suất bán hàng
-
 ✅ Tự động hóa quy trình báo cáo bằng **Python + SQL + Power BI**.
-
 ---
-
 ### 🛒 Nhân viên Siêu thị - Bách Hóa Xanh
 **📅 2023 - 2024**
-
 - Nhân viên bán hàng - thu ngân.
 - Kiểm soát hàng hóa (kiểm kê - xuất - nhập - xử lý hư hỏng)
 - Theo dõi doanh thu.
 - Hỗ trợ lập báo cáo kinh doanh.
-
 ---
-
 ### 📈 Thực tập sinh
 #### Công ty cổ phần chứng khoán An Bình.
 - Làm sạch dữ liệu.
@@ -99,20 +79,14 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Hỗ trợ phân tích dữ liệu.
 - Lập báo cáo.
 ---
-
 # 🚀 DỰ ÁN NỔI BẬT
-
 ## 📊 Dashboard Doanh thu Hệ thống Siêu thị
-
 ### Công nghệ
-
 - 📊 Power BI
 - 🗄 SQL
 - 🐍 Python
 - 📈 Excel
-
 ### Chức năng
-
 - Doanh thu theo cửa hàng
 - Doanh thu theo khu vực
 - Top ngành hàng
@@ -121,51 +95,34 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Forecast doanh thu
 - So sánh cùng kỳ
 - Doanh thu theo thời gian
-
 ### Kết quả
-
 ✔ Dashboard phục vụ hơn **20 siêu thị**
-
 ✔ Tự động cập nhật dữ liệu
-
 ✔ Hỗ trợ Ban quản lý đưa ra quyết định nhanh chóng
-
 ---
-
 ## 💰 Dashboard KPI Sale - Công ty YM
-
 ### Nội dung phân tích
-
 - KPI nhân viên
 - Doanh thu
 - Target
 - Hiệu suất bán hàng
 - Xếp hạng nhân viên
 - Phân tích doanh số
-
 ---
-
 ## 📦 Dashboard Quản lý Tồn kho
-
 - Theo dõi tồn kho
 - Phân tích tồn lâu
 - Vòng quay tồn kho
 - Hàng cận hạn
 - Cảnh báo tồn kho
-
 ---
-
 ## 🗑 Dashboard Theo dõi Hủy hàng
-
 - Hủy theo ngành hàng
 - Hủy theo cửa hàng
 - Hủy theo thời gian
 - Phân tích nguyên nhân
 - Đề xuất giải pháp giảm tỷ lệ hủy
-
 ---  
-
-
 # 🛠 KỸ NĂNG
 <table width="100%">
 <tr>
@@ -177,9 +134,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
  Microsoft Excel
  
   </h3>  
- 
 --- 
-
 <h3 align="center">
 ⭐⭐⭐⭐☆
 </h3>  
