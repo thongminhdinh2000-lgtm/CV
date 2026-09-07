@@ -27,20 +27,6 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 📱 Điện thoại: 0387628794  
 💻 GitHub: https://github.com/thongminhdinh2000-lgtm  
 
-
----
-
-# 👋 GIỚI THIỆU
-
-Tốt nghiệp **Đại học Sài Gòn** chuyên ngành **Toán Ứng dụng**, GPA **8.01/10**.
-
-Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 năm Nhân viên** và **01 năm Quản lý Siêu thị Bách Hóa Xanh**. Có kinh nghiệm xây dựng Dashboard, phân tích dữ liệu kinh doanh và tự động hóa quy trình báo cáo bằng **Excel, SQL, Python và Power BI**.
-
-Đã trực tiếp xây dựng Dashboard theo dõi **doanh thu, tồn kho, hủy hàng và KPI** cho hơn **20 siêu thị vệ tinh**, cung cấp Insight hỗ trợ Ban quản lý đưa ra quyết định và xây dựng chiến lược kinh doanh.
-
-
-
-
 # 🎓 HỌC VẤN
 
 ## 🏫 Đại học Sài Gòn
