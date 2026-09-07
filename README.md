@@ -105,7 +105,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 ✔ Tự động cập nhật dữ liệu
 ✔ Hỗ trợ Ban quản lý đưa ra quyết định nhanh chóng
 #### Link tham khảo: https://github.com/thongminhdinh2000-lgtm/Python-SQL-Dashboard-BI/blob/main/Dashboard/Sales_Dashboard_Supermarket.pdf  
-Vì lý do bảo mật, nội dung chia sẻ chỉ mang tính chất tham khảo - xin cảm ơn!
+#### Vì lý do bảo mật, nội dung chia sẻ chỉ mang tính chất tham khảo - xin cảm ơn!
 ---
 ## 💰 Dashboard KPI Sale - CÔNG TY TNHH THƯƠNG MẠI QUỐC TẾ VĂN MINH.
 ### Nội dung phân tích
