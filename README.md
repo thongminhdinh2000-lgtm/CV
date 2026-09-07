@@ -37,15 +37,15 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 ### Kế toán bán hàng - Báo cáo KPI
 **📅 Tháng 2/2026 - Nay**
 #### Công việc
-- Tiếp nhận và kiểm tra đơn hàng.
-- Lập hóa đơn điện tử.
-- Điều chỉnh hoặc thay thế hóa đơn khi phát sinh sai sót.
-- Kiểm tra thông tin khách hàng, mã số thuế.
-- Đối chiếu hóa đơn với đơn hàng và phiếu xuất kho.
-- Theo dõi tình trạng phát hành hóa đơn.
-- Phối hợp với bộ phận Kinh doanh và Kho để xử lý sai lệch.
-- Hỗ trợ kê khai và đối chiếu doanh thu.  
-- Tổng hợp dữ liệu, theo dõi KPI và lập báo cáo.
+- Tiếp nhận, kiểm tra và xử lý đơn hàng trước khi phát hành hóa đơn điện tử.
+- Kiểm tra thông tin khách hàng, mã số thuế và dữ liệu liên quan đến giao dịch.
+- Lập, điều chỉnh và thay thế hóa đơn điện tử khi phát sinh sai sót.
+- Đối chiếu dữ liệu giữa **đơn hàng, hóa đơn và phiếu xuất kho** nhằm phát hiện và xử lý sai lệch.
+- Theo dõi tình trạng phát hành hóa đơn và phối hợp với bộ phận Kinh doanh và Kho để xử lý các vấn đề phát sinh.
+- Hỗ trợ đối chiếu doanh thu và dữ liệu bán hàng phục vụ công tác kế toán.
+- Tổng hợp dữ liệu từ nhiều nguồn và lập báo cáo định kỳ.
+- Theo dõi các chỉ số **doanh thu, sản lượng, chiết khấu, thuế và KPI**.
+- Sử dụng Excel để xử lý, đối chiếu và tổng hợp dữ liệu phục vụ báo cáo.
 ### 🏪 Quản lý Siêu thị - Bách Hóa Xanh
 **📅 2024 - 2025**
 #### Công việc
