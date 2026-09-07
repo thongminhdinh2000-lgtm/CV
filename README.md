@@ -57,14 +57,13 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - 💡 Đưa ra Insight hỗ trợ cấp trên xây dựng chiến lược bán hàng.
 #### Thành tựu
 ✅ Xây dựng Dashboard quản trị cho hơn **20 siêu thị vệ tinh**.  
+✅ Tự động hóa quy trình báo cáo bằng **Python + SQL + Power BI**.  
 ✅ Theo dõi:  
 - Doanh thu
 - Hủy hàng
 - Tồn kho
 - KPI
-- Hiệu suất bán hàng
-
-✅ Tự động hóa quy trình báo cáo bằng **Python + SQL + Power BI**.
+- Hiệu suất bán hàng  
 ---
 ### 🛒 Nhân viên Siêu thị - Bách Hóa Xanh
 **📅 2023 - 2024**
