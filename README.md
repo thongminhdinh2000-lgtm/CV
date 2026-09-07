@@ -36,7 +36,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 ## 💼 KINH NGHIỆM LÀM VIỆC
 ### Kế toán bán hàng - Báo cáo KPI
 **📅 Tháng 2/2026 - Nay**
-#### Công việc
+#### Công việc.
 - Tiếp nhận, kiểm tra và xử lý đơn hàng trước khi phát hành hóa đơn điện tử.
 - Kiểm tra thông tin khách hàng, mã số thuế và dữ liệu liên quan đến giao dịch.
 - Lập, điều chỉnh và thay thế hóa đơn điện tử khi phát sinh sai sót.
@@ -46,9 +46,12 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Tổng hợp dữ liệu từ nhiều nguồn và lập báo cáo định kỳ.
 - Theo dõi các chỉ số **doanh thu, sản lượng, chiết khấu, thuế và KPI**.
 - Sử dụng Excel để xử lý, đối chiếu và tổng hợp dữ liệu phục vụ báo cáo.
+#### Điểm mạnh liên quan Data Analyst.
+- Có kinh nghiệm làm việc trực tiếp với dữ liệu giao dịch thực tế, kiểm tra chất lượng dữ liệu và đối chiếu nhiều nguồn trước khi đưa vào báo cáo.
+- Áp dụng Python, SQL, Power BI tạo báo cáo, theo dõi KPI của sales hằng tháng.
 ### 🏪 Quản lý Siêu thị - Bách Hóa Xanh
 **📅 2024 - 2025**
-#### Công việc
+#### Công việc.
 - Quản lý hoạt động vận hành và kinh doanh hàng ngày của siêu thị.
 - Theo dõi và phân tích doanh thu, lợi nhuận, sản lượng bán và các KPI vận hành.
 - Phân tích kết quả kinh doanh theo ngành hàng, nhóm hàng, sản phẩm và thời gian.
