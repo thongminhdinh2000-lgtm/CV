@@ -62,7 +62,8 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Hủy hàng
 - Tồn kho
 - KPI
-- Hiệu suất bán hàng  
+- Hiệu suất bán hàng
+
 ✅ Tự động hóa quy trình báo cáo bằng **Python + SQL + Power BI**.
 ---
 ### 🛒 Nhân viên Siêu thị - Bách Hóa Xanh
