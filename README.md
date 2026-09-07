@@ -34,7 +34,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 🏆 GPA: **8.01/10**
 ---
 ## 💼 KINH NGHIỆM LÀM VIỆC
-### Kế toán bán hàng - Báo cáo KPI
+### Kế toán bán hàng, Báo cáo KPI - CÔNG TY TNHH THƯƠNG MẠI QUỐC TẾ VĂN MINH.
 **📅 Tháng 2/2026 - Nay**
 #### Công việc.
 - Tiếp nhận, kiểm tra và xử lý đơn hàng trước khi phát hành hóa đơn điện tử.
@@ -49,8 +49,8 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 #### Điểm mạnh liên quan Data Analyst.
 - Có kinh nghiệm làm việc trực tiếp với dữ liệu giao dịch thực tế, kiểm tra chất lượng dữ liệu và đối chiếu nhiều nguồn trước khi đưa vào báo cáo.
 - Áp dụng Python, SQL, Power BI tạo báo cáo, theo dõi KPI của sales hằng tháng.
-### 🏪 Quản lý Siêu thị - Bách Hóa Xanh
-**📅 2024 - 2025**
+### 🏪 Quản lý Siêu thị - CÔNG TY CỔ PHẦN THƯƠNG MẠI BÁCH HÓA XANH.
+**📅 Tháng 12/2024 - 11/2025**
 #### Công việc.
 - Quản lý hoạt động vận hành và kinh doanh hàng ngày của siêu thị.
 - Theo dõi và phân tích doanh thu, lợi nhuận, sản lượng bán và các KPI vận hành.
@@ -71,8 +71,8 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - KPI
 - Hiệu suất bán hàng  
 ---
-### 🛒 Nhân viên Siêu thị - Bách Hóa Xanh
-**📅 2023 - 2024**
+### 🛒 Nhân viên Siêu thị - CÔNG TY CỔ PHẦN THƯƠNG MẠI BÁCH HÓA XANH.
+**📅 Tháng 9/2023 - 11/2024**
 - Nhân viên bán hàng - thu ngân.
 - Kiểm soát hàng hóa (kiểm kê - xuất - nhập - xử lý hư hỏng)
 - Theo dõi doanh thu.
@@ -107,7 +107,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 #### Link tham khảo: https://github.com/thongminhdinh2000-lgtm/Python-SQL-Dashboard-BI/blob/main/Dashboard/Sales_Dashboard_Supermarket.pdf  
 Vì lý do bảo mật, nội dung chia sẻ chỉ mang tính chất tham khảo - xin cảm ơn!
 ---
-## 💰 Dashboard KPI Sale - Công ty YM
+## 💰 Dashboard KPI Sale - CÔNG TY TNHH THƯƠNG MẠI QUỐC TẾ VĂN MINH.
 ### Nội dung phân tích
 - KPI nhân viên
 - Doanh thu
@@ -116,20 +116,6 @@ Vì lý do bảo mật, nội dung chia sẻ chỉ mang tính chất tham khảo
 - Xếp hạng nhân viên
 - Phân tích doanh số
 ---
-## 📦 Dashboard Quản lý Tồn kho
-- Theo dõi tồn kho
-- Phân tích tồn lâu
-- Vòng quay tồn kho
-- Hàng cận hạn
-- Cảnh báo tồn kho
----
-## 🗑 Dashboard Theo dõi Hủy hàng
-- Hủy theo ngành hàng
-- Hủy theo cửa hàng
-- Hủy theo thời gian
-- Phân tích nguyên nhân
-- Đề xuất giải pháp giảm tỷ lệ hủy
----  
 # 🛠 KỸ NĂNG
 <table width="100%">
 <tr>
@@ -143,7 +129,7 @@ Vì lý do bảo mật, nội dung chia sẻ chỉ mang tính chất tham khảo
   </h3>  
 --- 
 <h3 align="center">
-⭐⭐⭐⭐☆
+
 </h3>  
 
 • Pivot Tables  
@@ -165,7 +151,7 @@ SQL Server
 --- 
 
 <h3 align="center">
-⭐⭐⭐☆☆
+
 </h3>
  
 • SELECT & JOIN  
@@ -186,7 +172,7 @@ Python
 --- 
 
 <h3 align="center">
-⭐⭐⭐☆☆
+
 </h3>
  
 • Pandas  
@@ -207,7 +193,7 @@ Power BI
 --- 
 
 <h3 align="center">
-⭐⭐⭐⭐☆
+
 </h3>  
 
 • Data Modeling  
