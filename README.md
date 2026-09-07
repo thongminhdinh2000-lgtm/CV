@@ -13,7 +13,7 @@
  
 ##  THÔNG MINH ĐÌNH
 ### 📊 DATA ANALYST | BUSINESS INTELLIGENCE ANALYST
-Tốt nghiệp **Đại học Sài Gòn** chuyên ngành **Toán Ứng dụng**, GPA **8.01/10**.
+### Tốt nghiệp **Đại học Sài Gòn** chuyên ngành **Toán Ứng dụng**, GPA **8.01/10**.
 
 Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 năm Nhân viên** và **01 năm Quản lý Siêu thị Bách Hóa Xanh**. Có kinh nghiệm xây dựng Dashboard, phân tích dữ liệu kinh doanh và tự động hóa quy trình báo cáo bằng **Excel, SQL, Python và Power BI**.
 
