@@ -11,8 +11,8 @@
 <td width="75%" valign="top">  
  
  
-#  THÔNG MINH ĐÌNH
-## 📊 DATA ANALYST | BUSINESS INTELLIGENCE ANALYST
+##  THÔNG MINH ĐÌNH
+### 📊 DATA ANALYST | BUSINESS INTELLIGENCE ANALYST
 Tốt nghiệp **Đại học Sài Gòn** chuyên ngành **Toán Ứng dụng**, GPA **8.01/10**.
 
 Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 năm Nhân viên** và **01 năm Quản lý Siêu thị Bách Hóa Xanh**. Có kinh nghiệm xây dựng Dashboard, phân tích dữ liệu kinh doanh và tự động hóa quy trình báo cáo bằng **Excel, SQL, Python và Power BI**.
@@ -27,9 +27,9 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 📱 Điện thoại: 0387628794  
 💻 GitHub: https://github.com/thongminhdinh2000-lgtm  
 
-# 🎓 HỌC VẤN
+## 🎓 HỌC VẤN
 
-## 🏫 Đại học Sài Gòn
+### 🏫 Đại học Sài Gòn
 
 **Chuyên ngành:** Toán Ứng dụng (Toán Kinh tế)
 
@@ -39,11 +39,11 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 
 ---
 
-# 💼 KINH NGHIỆM LÀM VIỆC
-## Kế toán bán hàng - Báo cáo KPI
+## 💼 KINH NGHIỆM LÀM VIỆC
+### Kế toán bán hàng - Báo cáo KPI
 **📅 Tháng 2/2026 - Nay**
 
-### Công việc
+#### Công việc
 - Tiếp nhận và kiểm tra đơn hàng.
 - Lập hóa đơn điện tử.
 - Điều chỉnh hoặc thay thế hóa đơn khi phát sinh sai sót.
@@ -54,10 +54,10 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Hỗ trợ kê khai và đối chiếu doanh thu.  
 - Tổng hợp dữ liệu, theo dõi KPI và lập báo cáo.
 
-## 🏪 Quản lý Siêu thị - Bách Hóa Xanh
+### 🏪 Quản lý Siêu thị - Bách Hóa Xanh
 **📅 2024 - 2025**
 
-### Công việc
+#### Công việc
 
 - 📈 Quản lý hoạt động kinh doanh của siêu thị.
 - 📊 Theo dõi doanh thu, lợi nhuận và các chỉ số kinh doanh.
@@ -66,7 +66,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - 📉 Phân tích dữ liệu kinh doanh theo ngành hàng, nhóm hàng và cửa hàng.
 - 💡 Đưa ra Insight hỗ trợ cấp trên xây dựng chiến lược bán hàng.
 
-### Thành tựu
+#### Thành tựu
 
 ✅ Xây dựng Dashboard quản trị cho hơn **20 siêu thị vệ tinh**.
 
@@ -82,7 +82,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 
 ---
 
-## 🛒 Nhân viên Siêu thị - Bách Hóa Xanh
+### 🛒 Nhân viên Siêu thị - Bách Hóa Xanh
 **📅 2023 - 2024**
 
 - Nhân viên bán hàng - thu ngân.
@@ -92,14 +92,12 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 
 ---
 
-## 📈 Thực tập sinh
-### Công ty Chứng khoán
-
+### 📈 Thực tập sinh
+#### Công ty cổ phần chứng khoán An Bình.
 - Làm sạch dữ liệu.
 - Tổng hợp dữ liệu Excel.
 - Hỗ trợ phân tích dữ liệu.
 - Lập báo cáo.
-
 ---
 
 # 🚀 DỰ ÁN NỔI BẬT
