@@ -49,6 +49,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 #### Điểm mạnh liên quan Data Analyst.
 - Có kinh nghiệm làm việc trực tiếp với dữ liệu giao dịch thực tế, kiểm tra chất lượng dữ liệu và đối chiếu nhiều nguồn trước khi đưa vào báo cáo.
 - Áp dụng Python, SQL, Power BI tạo báo cáo, theo dõi KPI của sales hằng tháng.
+---  
 ### 🏪 Quản lý Siêu thị - CÔNG TY CỔ PHẦN THƯƠNG MẠI BÁCH HÓA XANH.
 **📅 Tháng 12/2024 - 11/2025**
 #### Công việc.
