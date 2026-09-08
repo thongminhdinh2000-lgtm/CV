@@ -28,10 +28,10 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 💻 GitHub: https://github.com/thongminhdinh2000-lgtm  
 
 ## 🎓 HỌC VẤN
-### 🏫 Đại học Sài Gòn
-**Chuyên ngành:** Toán Ứng dụng (Toán Kinh tế)
-🎓 Tốt nghiệp
-🏆 GPA: **8.01/10**
+### 🏫 Đại học Sài Gòn  
+**Chuyên ngành:** Toán Ứng dụng (Toán Kinh tế)  
+🎓 Tốt nghiệp  
+🏆 GPA: **8.01/10**  
 ---
 ## 💼 KINH NGHIỆM LÀM VIỆC
 ### Kế toán bán hàng, Báo cáo KPI - CÔNG TY TNHH THƯƠNG MẠI QUỐC TẾ VĂN MINH.
