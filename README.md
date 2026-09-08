@@ -29,7 +29,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 
 ## 🎓 HỌC VẤN
 ### 🏫 Đại học Sài Gòn  
-**Chuyên ngành:** Toán Ứng dụng (Toán Kinh tế)  
+#### **Chuyên ngành:** Toán Ứng dụng (Toán Kinh tế)  
 🎓 Tốt nghiệp  
 🏆 GPA: **8.01/10**  
 ---
