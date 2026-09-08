@@ -85,14 +85,14 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Hỗ trợ phân tích dữ liệu.
 - Lập báo cáo.
 ---
-# 🚀 DỰ ÁN NỔI BẬT
-## 📊 Dashboard Doanh thu Hệ thống Siêu thị
-### Công nghệ
+## 🚀 DỰ ÁN NỔI BẬT
+### 📊 Dashboard Doanh thu Hệ thống Siêu thị
+#### Công nghệ
 - 📊 Power BI
 - 🗄 SQL
 - 🐍 Python
 - 📈 Excel
-### Chức năng
+#### Chức năng
 - Doanh thu theo cửa hàng
 - Doanh thu theo khu vực
 - Top ngành hàng
@@ -101,21 +101,22 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Forecast doanh thu
 - So sánh cùng kỳ
 - Doanh thu theo thời gian
-### Kết quả
+#### Kết quả
 ✔ Dashboard phục vụ hơn **20 siêu thị**
 ✔ Tự động cập nhật dữ liệu
 ✔ Hỗ trợ Ban quản lý đưa ra quyết định nhanh chóng
 #### Link tham khảo: https://github.com/thongminhdinh2000-lgtm/Python-SQL-Dashboard-BI/blob/main/Dashboard/Sales_Dashboard_Supermarket.pdf  
 #### Vì lý do bảo mật, nội dung chia sẻ chỉ mang tính chất tham khảo - xin cảm ơn!
 ---
-## 💰 Dashboard KPI Sale - CÔNG TY TNHH THƯƠNG MẠI QUỐC TẾ VĂN MINH.
-### Nội dung phân tích
+### 💰 Dashboard KPI Sale - CÔNG TY TNHH THƯƠNG MẠI QUỐC TẾ VĂN MINH.
+#### Nội dung phân tích
 - KPI nhân viên
 - Doanh thu
 - Target
 - Hiệu suất bán hàng
 - Xếp hạng nhân viên
 - Phân tích doanh số
+#### Link tham khảo: https://github.com/thongminhdinh2000-lgtm/Python-SQL-Dashboard-BI/blob/main/Dashboard/Sales_Dashboard_Supermarket.pdf  
 ---
 # 🛠 KỸ NĂNG
 <table width="100%">
