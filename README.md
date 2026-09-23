@@ -31,7 +31,9 @@
 ## Skills
 **SQL Server | Python | Power BI | DAX | Power Query | Excel**
 ## Focus
-**Data Analysis | Business Intelligence | Sales Analytics | Dashboard Development | Reporting Automation**
+**Data Analysis | Business Intelligence | Sales Analytics | Dashboard Development | Reporting Automation**  
+
+
 📍 Hồ Chí Minh  
 📧 Email: thongminhdinh2000@gmail.com  
 📱 Điện thoại: 0387628794  
