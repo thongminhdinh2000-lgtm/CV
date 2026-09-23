@@ -10,13 +10,10 @@
 
 <td width="75%" valign="top">  
  
- 
+
 ##  THÔNG MINH ĐÌNH
 ### 📊 DATA ANALYST | BUSINESS INTELLIGENCE ANALYST
 ### Tốt nghiệp **Đại học Sài Gòn** chuyên ngành **Toán Ứng dụng**, GPA **8.01/10**.
-
-
-## Điểm nổi bật
 
 * **Có kinh nghiệm thực tế với dữ liệu kinh doanh/Sales:** Trực tiếp làm việc với dữ liệu doanh thu, sản lượng, chiết khấu, KPI, khách hàng và hiệu suất bán hàng.
 * **SQL & Xử lý dữ liệu:** Sử dụng SQL Server để truy vấn, tổng hợp và xử lý dữ liệu.
