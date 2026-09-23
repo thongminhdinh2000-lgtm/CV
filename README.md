@@ -24,14 +24,6 @@
 * **Tự động hóa báo cáo:** Xây dựng quy trình **Excel → Python → SQL Server → Power BI** để tự động hóa xử lý và báo cáo dữ liệu. (Hoàn thiện hơn)
 * **Business Insight:** Tư duy phân tích và tìm insight nguyên nhân biến động doanh thu, hiệu suất kinh doanh, phân tích xu hướng để hỗ trợ ra quyết định kinh doanh.
 
-## Skills
-
-**SQL Server | Python | Power BI | DAX | Power Query | Excel**
-
-## Focus
-
-**Data Analysis | Business Intelligence | Sales Analytics | Dashboard Development | Reporting Automation**
-
  </td>
  </tr>
 </table>
@@ -47,6 +39,14 @@
 #### 🎓 Tốt nghiệp  
 #### 🏆 GPA: **8.01/10**  
 ---
+## Skills
+
+**SQL Server | Python | Power BI | DAX | Power Query | Excel**
+
+## Focus
+
+**Data Analysis | Business Intelligence | Sales Analytics | Dashboard Development | Reporting Automation**
+
 ## 💼 KINH NGHIỆM LÀM VIỆC
 ### Kế toán bán hàng, Báo cáo KPI - CÔNG TY TNHH THƯƠNG MẠI QUỐC TẾ VĂN MINH.
 **📅 Tháng 2/2026 - Nay**
