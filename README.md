@@ -15,9 +15,23 @@
 ### 📊 DATA ANALYST | BUSINESS INTELLIGENCE ANALYST
 ### Tốt nghiệp **Đại học Sài Gòn** chuyên ngành **Toán Ứng dụng**, GPA **8.01/10**.
 
-Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 năm Nhân viên** và **01 năm Quản lý Siêu thị Bách Hóa Xanh**. Có kinh nghiệm xây dựng Dashboard, phân tích dữ liệu kinh doanh và tự động hóa quy trình báo cáo bằng **Excel, SQL, Python và Power BI**.
 
-Đã trực tiếp xây dựng Dashboard theo dõi **doanh thu, tồn kho, hủy hàng và KPI** cho hơn **20 siêu thị vệ tinh**, cung cấp Insight hỗ trợ Ban quản lý đưa ra quyết định và xây dựng chiến lược kinh doanh.
+## Điểm nổi bật
+
+* **Có kinh nghiệm thực tế với dữ liệu kinh doanh/Sales:** Trực tiếp làm việc với dữ liệu doanh thu, sản lượng, chiết khấu, KPI, khách hàng và hiệu suất bán hàng.
+* **SQL & Xử lý dữ liệu:** Sử dụng SQL Server để truy vấn, tổng hợp và xử lý dữ liệu.
+* **Power BI & Dashboard:** Xây dựng Dashboard nhằm trực quan hóa và theo dõi hiệu quả kinh doanh. Đã xây dựng Dashboard quản trị cho hơn 20 siêu thị, không chỉ dừng ở dự án học tập.
+* **Tự động hóa báo cáo:** Xây dựng quy trình **Excel → Python → SQL Server → Power BI** để tự động hóa xử lý và báo cáo dữ liệu. (Hoàn thiện hơn)
+* **Business Insight:** Tư duy phân tích và tìm insight nguyên nhân biến động doanh thu, hiệu suất kinh doanh, phân tích xu hướng để hỗ trợ ra quyết định kinh doanh.
+
+## Skills
+
+**SQL Server | Python | Power BI | DAX | Power Query | Excel**
+
+## Focus
+
+**Data Analysis | Business Intelligence | Sales Analytics | Dashboard Development | Reporting Automation**
+
  </td>
  </tr>
 </table>
