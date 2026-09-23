@@ -51,7 +51,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Áp dụng Python, SQL, Power BI tạo báo cáo, theo dõi KPI của sales hằng tháng.
 ---  
 ### 🏪 Quản lý Siêu thị - CÔNG TY CỔ PHẦN THƯƠNG MẠI BÁCH HÓA XANH.
-**📅 Tháng 12/2024 - 11/2025**
+**📅 Tháng 12/2024 - 12/2025**
 #### Công việc.
 - Quản lý hoạt động vận hành và kinh doanh hàng ngày của siêu thị.
 - Theo dõi và phân tích doanh thu, lợi nhuận, sản lượng bán và các KPI vận hành.
