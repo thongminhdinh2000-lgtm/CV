@@ -116,7 +116,7 @@ Có hơn **2 năm kinh nghiệm trong lĩnh vực bán lẻ**, bao gồm **01 n�
 - Hiệu suất bán hàng
 - Xếp hạng nhân viên
 - Phân tích doanh số
-#### Link tham khảo: https://github.com/thongminhdinh2000-lgtm/Python-SQL-Dashboard-BI/blob/main/Dashboard/Sales_Dashboard_Supermarket.pdf  
+#### Link tham khảo: https://github.com/thongminhdinh2000-lgtm/Python-SQL-Dashboard-BI/blob/main/Dashboard/dash-vm.pdf
 ---
 # 🛠 KỸ NĂNG
 <table width="100%">
