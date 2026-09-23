@@ -22,7 +22,7 @@
 * **SQL & Xử lý dữ liệu:** Sử dụng SQL Server để truy vấn, tổng hợp và xử lý dữ liệu.
 * **Power BI & Dashboard:** Xây dựng Dashboard nhằm trực quan hóa và theo dõi hiệu quả kinh doanh. Đã xây dựng Dashboard quản trị cho hơn 20 siêu thị, không chỉ dừng ở dự án học tập.
 * **Tự động hóa báo cáo:** Xây dựng quy trình **Excel → Python → SQL Server → Power BI** để tự động hóa xử lý và báo cáo dữ liệu. (Hoàn thiện hơn)
-* **Business Insight:** Tư duy phân tích và tìm insight nguyên nhân biến động doanh thu, hiệu suất kinh doanh, phân tích xu hướng để hỗ trợ ra quyết định kinh doanh.
+* **Business Insight:** Phân tích và tìm insight nguyên nhân biến động doanh thu, hiệu suất kinh doanh, phân tích xu hướng để hỗ trợ ra quyết định kinh doanh.
 
  </td>
  </tr>
