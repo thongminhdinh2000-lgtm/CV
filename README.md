@@ -28,6 +28,10 @@
  </tr>
 </table>
 
+## Skills
+**SQL Server | Python | Power BI | DAX | Power Query | Excel**
+## Focus
+**Data Analysis | Business Intelligence | Sales Analytics | Dashboard Development | Reporting Automation**
 📍 Hồ Chí Minh  
 📧 Email: thongminhdinh2000@gmail.com  
 📱 Điện thoại: 0387628794  
@@ -39,14 +43,6 @@
 #### 🎓 Tốt nghiệp  
 #### 🏆 GPA: **8.01/10**  
 ---
-## Skills
-
-**SQL Server | Python | Power BI | DAX | Power Query | Excel**
-
-## Focus
-
-**Data Analysis | Business Intelligence | Sales Analytics | Dashboard Development | Reporting Automation**
-
 ## 💼 KINH NGHIỆM LÀM VIỆC
 ### Kế toán bán hàng, Báo cáo KPI - CÔNG TY TNHH THƯƠNG MẠI QUỐC TẾ VĂN MINH.
 **📅 Tháng 2/2026 - Nay**
